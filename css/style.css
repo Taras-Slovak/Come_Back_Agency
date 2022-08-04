@@ -1906,7 +1906,7 @@ a {
   -ms-flex-preferred-size: 543px;
       flex-basis: 543px;
   position: relative;
-  background-image: url("../../images/about.webp");
+  background-image: url("../images/about.webp");
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
