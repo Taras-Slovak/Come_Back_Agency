@@ -1380,9 +1380,9 @@ a {
   position: relative;
   padding-bottom: 170px;
   height: 836px;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.66)), to(rgba(0, 0, 0, 0))), url(/images/electrician.webp) padding-box content-box;
-  background: -o-linear-gradient(top, rgba(0, 0, 0, 0.66) 0%, rgba(0, 0, 0, 0) 100%), url(/images/electrician.webp) padding-box content-box;
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0.66) 0%, rgba(0, 0, 0, 0) 100%), url(/images/electrician.webp) padding-box content-box;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.66)), to(rgba(0, 0, 0, 0))), url(../images/electrician.webp) padding-box content-box;
+  background: -o-linear-gradient(top, rgba(0, 0, 0, 0.66) 0%, rgba(0, 0, 0, 0) 100%), url(../images/electrician.webp) padding-box content-box;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.66) 0%, rgba(0, 0, 0, 0) 100%), url(../images/electrician.webp) padding-box content-box;
   background-position: 50% 50%;
   background-size: cover;
 }
